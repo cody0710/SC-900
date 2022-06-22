@@ -1,5 +1,5 @@
 # SC-900
-You can pass SC-900 for free. No need to spend your money. I mainly learnt Azure fundamental stuff from Microsoft Learn, which provides you with complementary free resources for study at your own pace if you carefully check which contents will be charged there. :) Below are the critical URL links that you should know before sitting for the Microsoft SC-900 exam. Still under construction though. Gonna add about more links.
+You can pass SC-900 for free. No need to spend your money. I mainly learnt Azure fundamental stuff from Microsoft Learn, which provides you with complementary free resources for study at your own pace if you have an eye for being aware of which contents will be charged there. :) Below are the critical URL links that you should know before sitting for the Microsoft SC-900 exam. Still under construction though. Gonna add about more links.
 <br>
 https://azure.microsoft.com/en-us/pricing/details/active-directory/<br>
 https://docs.microsoft.com/en-us/azure/active-directory/conditional-access/concept-conditional-access-policy-common<br>

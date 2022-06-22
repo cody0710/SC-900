@@ -1,5 +1,5 @@
 # SC-900
-You can pass SC-900 for free. No need to spend your money. I mainly learnt Azure fundamental stuff from Microsoft Learn, which provides you with complementary free resources for study at your own pace if you have an eye for being aware of what kind of contents will be charged by them. :) Below are the critical URL links that you should know before sitting for the Microsoft SC-900 exam. Still under construction though. Gonna add a few more links. Last but not least, SC-900 is a lot easier than AZ-900 if you have the work experience in any of IT security sectors.<br>
+You can pass SC-900 for free. No need to spend your money. I mainly learnt Azure security stuff from Microsoft Learn, which provides you with complementary free resources for study at your own pace if you have an eye for being aware of what kind of contents will be charged by them. :) Below are the critical URL links that you should know before sitting for the Microsoft SC-900 exam. Still under construction though. Gonna finish adding a few more links shortly. Last but not least, SC-900 is a lot easier than AZ-900 (a.k.a. Microsoft Azure Funamentals) if you have ever had the work experience in any of IT security sectors.<br>
 
 <br>
 https://azure.microsoft.com/en-us/pricing/details/active-directory/<br>
